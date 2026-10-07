@@ -2,7 +2,7 @@
 
 Repositorio con los archivos prácticos en **TypeScript y React** desarrollados durante el tutorial.
 
-## 🚀 Cómo inicializar y ejecutar el proyecto
+##  Cómo inicializar y ejecutar el proyecto
 
 Para clonar y ejecutar este proyecto de manera local en tu computadora, sigue los siguientes pasos:
 
@@ -36,7 +36,7 @@ Después de ejecutar el comando, abre en tu navegador la dirección que aparecer
 http://localhost:5173/
 ```
 
-## 📸 Ejemplos y capturas
+##  Ejemplos y capturas
 
 Aquí puedes visualizar los componentes y ejemplos desarrollados durante el tutorial:
 
@@ -53,8 +53,6 @@ Aquí puedes visualizar los componentes y ejemplos desarrollados durante el tuto
 ### Ejemplo 3: Modulo2Page
 
 <img width="825" height="866" alt="image" src="https://github.com/user-attachments/assets/1cc834a0-0e40-415e-9c7a-63c5bc2d067c" />
-
-
 
    ## 🔗 Enlaces de Referencia de los Tutoriales
 * **Tutorial Práctico:** [Ver video en YouTube](https://www.youtube.com/watch?v=m66k4U4_LPg&t=2511s)
